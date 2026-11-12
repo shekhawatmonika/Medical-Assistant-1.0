@@ -1,5 +1,5 @@
 # 🏥 Medical Assistant — Streamlit + Local LLM + RAG
-
+Live project: https://medical-assistant-v-1.streamlit.app
 A portfolio-ready educational Medical Appointment Assistant.
 
 ## Architecture
